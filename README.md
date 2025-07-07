@@ -1,50 +1,31 @@
-# 🧮 BMI Calculator App
+# BMI Calculator App
 
-A simple yet powerful **BMI (Body Mass Index)** Calculator built using **Flutter** and **Dart**. This app helps users calculate their BMI based on height and weight inputs, giving instant feedback on their health category.
+This is a simple BMI Calculator App made using **Flutter** and **Dart**.
 
-## 🚀 Features
+It takes your **height and weight** as input and shows your **BMI result** with a health category like "Normal", "Overweight", or "Underweight".
 
-- 🧑‍⚕️ Real-time BMI calculation
-- 📊 Clean and intuitive user interface
-- 📱 Supports both Android and iOS
-- ⚙️ Built with Flutter (cross-platform)
+## Platform
 
-## 📱 APK Download
+- ✅ Works on both **Android** and **iOS** (Cross-platform using Flutter)
 
-> 👉 [Download Android APK](./f9a64803-4202-474b-8088-c66092ff4df9.apk)
+## APK Download (for Android users)
 
-- Tested on Android 11+
-- Allow **"Install from unknown sources"** to run
+📥 [Download APK](./f9a64803-4202-474b-8088-c66092ff4df9.apk)
 
-## 🔧 Tech Stack
+> Note: After downloading, you may need to enable **Install from Unknown Sources** from phone settings to install the app.
 
-- **Flutter** (UI Framework)
-- **Dart** (Programming Language)
-- Responsive design for various screen sizes
+## Features
 
-## 📦 Installation
+- Simple and clean UI
+- Fast BMI calculation
+- Flutter UI with Dart logic
+- Light weight and smooth performance
 
-### Android
-1. Download the APK from the link above
-2. Enable “Install from unknown sources”
-3. Tap to install and enjoy
+## How to Run (for developers)
 
-### iOS  
-> ⚠️ iOS installation via Xcode is required  
-Use Flutter + Xcode to install on iPhone (Mac needed)
-
----
-
-## 📚 Learn More
-
-- [Flutter Documentation](https://docs.flutter.dev/)
-- [Dart Language](https://dart.dev/)
-
----
-
-## 👨‍💻 Developed By
-
-**Manish Khatriya**  
-_Computer Science & IT Student_  
-📍 Indore, India
-
+1. Make sure Flutter is installed
+2. Clone this repo
+3. Run:  
+   ```bash
+   flutter pub get
+   flutter run
