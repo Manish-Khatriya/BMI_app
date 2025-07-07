@@ -19,7 +19,7 @@ This app is built using **Flutter**, so it works on:
 
 ## 📥 APK Download (Android)
 
-[Click here to download APK](./f9a64803-4202-474b-8088-c66092ff4df9.apk)
+[Click here to download APK](https://drive.google.com/file/d/1UlzS-G49aVJx6ij0gFfl3aqTRKQRXtqS/view?usp=sharing)
 
 > ⚠️ After downloading, allow **"Install from Unknown Sources"** in phone settings to install the app.
 
