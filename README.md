@@ -1,16 +1,55 @@
-# bmi
+# 🧮 BMI Calculator App
 
-A new Flutter project.
+A simple yet powerful **BMI (Body Mass Index)** Calculator built using **Flutter** and **Dart**. This app helps users calculate their BMI based on height and weight inputs, giving instant feedback on their health category.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🧑‍⚕️ Real-time BMI calculation
+- 📊 Clean and intuitive user interface
+- 📱 Supports both Android and iOS
+- ⚙️ Built with Flutter (cross-platform)
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 APK Download
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> 👉 [Download Android APK](./f9a64803-4202-474b-8088-c66092ff4df9.apk)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Tested on Android 11+
+- Allow **"Install from unknown sources"** to run
+
+## 🔧 Tech Stack
+
+- **Flutter** (UI Framework)
+- **Dart** (Programming Language)
+- Responsive design for various screen sizes
+
+## 📷 Screenshots
+
+> *(You can add screenshots later here)*  
+> `assets/screenshots/home.png`
+
+## 📦 Installation
+
+### Android
+1. Download the APK from the link above
+2. Enable “Install from unknown sources”
+3. Tap to install and enjoy
+
+### iOS  
+> ⚠️ iOS installation via Xcode is required  
+Use Flutter + Xcode to install on iPhone (Mac needed)
+
+---
+
+## 📚 Learn More
+
+- [Flutter Documentation](https://docs.flutter.dev/)
+- [Dart Language](https://dart.dev/)
+
+---
+
+## 👨‍💻 Developed By
+
+**Manish Khatriya**  
+_Computer Science & IT Student_  
+📍 Indore, India
+
