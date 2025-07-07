@@ -22,11 +22,6 @@ A simple yet powerful **BMI (Body Mass Index)** Calculator built using **Flutter
 - **Dart** (Programming Language)
 - Responsive design for various screen sizes
 
-## 📷 Screenshots
-
-> *(You can add screenshots later here)*  
-> `assets/screenshots/home.png`
-
 ## 📦 Installation
 
 ### Android
