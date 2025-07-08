@@ -4,6 +4,14 @@ This is a simple BMI Calculator App made using **Flutter** and **Dart**.
 
 It lets users calculate their **Body Mass Index (BMI)** based on their height and weight, and shows the result with a category (Underweight, Normal, Overweight, etc.).
 
+📚 What I Learned from This Project : 
+- How to calculate BMI using user input
+- How to manage state efficiently
+- How to build responsive UI using MediaQuery
+- Real-world use of Flutter widgets for layout and design
+- How Dart language works in Flutter development
+- How to build and install APK files on Android devices
+
 ## 📱 Supported Platforms
 
 This app is built using **Flutter**, so it works on:
